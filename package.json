@@ -1,0 +1,20 @@
+{
+  "name": "haikucat",
+  "version": "1.0.0",
+  "description": "djt-listen-haiku-cat",
+  "main": "haikucat.js",
+  "scripts": {
+    "start": "node haikucat.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cpb",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "jimp": "^0.2.28",
+    "neocities": "0.0.3",
+    "rita": "^1.2.12",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {}
+}
